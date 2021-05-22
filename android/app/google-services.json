@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582140356035",
+    "project_id": "terralife-ms",
+    "storage_bucket": "terralife-ms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582140356035:android:52bcc4ca6de5d5fdddc976",
+        "android_client_info": {
+          "package_name": "com.FinalWorkMaelys.terralife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582140356035-kr1gup4sti0uh1mjhil88kl92kpsmcl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FinalWorkMaelys.terralife",
+            "certificate_hash": "663cb9f78e3be83f941e74c308c0fee32176fbc5"
+          }
+        },
+        {
+          "client_id": "582140356035-t8i65g1kgjcnsiq3dvbr2slinooi65m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXFCrdNtu9LDf9CXdRb_vNxBnw1ENfOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582140356035-t8i65g1kgjcnsiq3dvbr2slinooi65m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
