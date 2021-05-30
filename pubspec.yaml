@@ -56,6 +56,12 @@ flutter:
   assets:
     - images/facebook-logo.png
     - images/google-logo.png
+    - images/hanging_lamp.png
+    - images/Lamp.png
+    - images/UVAhanging_lamp.png
+    - images/UVhanging_lamp.png
+    - images/UVBhanging_lamp.png
+    - images/Temphanging_lamp.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
