@@ -13,10 +13,10 @@ class DataPage extends StatefulWidget {
 }
 
 class _DataPageState extends State<DataPage> {
-  bool value = false;
-  bool value2= false;
-  bool value3= false;
-  bool value4= false;
+  bool value = true;
+  bool value2= true;
+  bool value3= true;
+  bool value4= true;
 
   final dbRef = FirebaseDatabase.instance.reference();
   onToggle(bool toggle){
@@ -28,7 +28,7 @@ class _DataPageState extends State<DataPage> {
   onUpdate() {
     setState(() {
       value =  !value;
-      value4=  !value4;// toggle between true and false
+      // toggle between true and false
     });
   }
   onUpdate2() {
