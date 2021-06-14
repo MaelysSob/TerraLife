@@ -2,6 +2,7 @@
 
 A smart terrarium system
 
+![](131437473_255903632979800_1179120242625928234_n.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
